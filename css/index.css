@@ -1,0 +1,27 @@
+.jumbotron {
+  margin-bottom: 0;
+}
+.carousel-content {
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  z-index: 20;
+  color: black;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-content p {
+  background-color: rgba(256, 256, 256, 0.6);
+  padding: 20px;
+}
+
+section {
+  padding: 5%;
+}
+
+section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
